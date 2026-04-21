@@ -11,5 +11,8 @@ class Mahasiswa {
             cout<<"Nama = "<< nama <<endl;
             cout<<"Nilai ="<< nilai <<endl;
         }
+};
 
+int main (){
+    
 }
